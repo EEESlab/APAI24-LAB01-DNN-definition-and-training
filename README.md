@@ -19,5 +19,5 @@ A good tool to understand how convolutions work
 
 [Visualizer](https://ezyang.github.io/convolution-visualizer/)
 
-## Assignment DEADLINE: XX/XX/2024 (midnight)
+## Assignment DEADLINE: 04/10/2024 (midnight)
 
